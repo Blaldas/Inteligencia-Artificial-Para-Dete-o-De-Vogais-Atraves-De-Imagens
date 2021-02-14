@@ -8,5 +8,3 @@ O ficheiro zip nomeado de "Pastas1_3" contém as pastas com as fotografias que s
 
 
 Não foi implementado o último ponto do enunciado trabalho prático.
-
-Foi dada a classificação final de 90%.
